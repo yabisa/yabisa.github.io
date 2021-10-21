@@ -1,4 +1,0 @@
-#                                                                                YABISA
-## Selamat Datang
-
-
