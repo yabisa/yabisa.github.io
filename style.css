@@ -7,7 +7,8 @@
  
   body {
       background-image: "view.jpg";
-	backgroung-repeat: no-repeat ;
+      background-repeat: no-repeat;
+      background-attachment: Fixed;
       font-family: sans-serif;
   }
  
